@@ -1,0 +1,396 @@
+Region,Transportation,Requests_1/13/2020,Requests_4/14/2020
+Albania,driving,100,31.43
+Albania,walking,100,38.08
+Argentina,driving,100,22.29
+Argentina,walking,100,16.66
+Australia,driving,100,55.91
+Australia,transit,100,21.58
+Australia,walking,100,47.1
+Austria,driving,100,51.14
+Austria,walking,100,35.47
+Belgium,driving,100,46.52
+Belgium,transit,100,26.06
+Belgium,walking,100,53.49
+Brazil,driving,100,47.91
+Brazil,transit,100,23.03
+Brazil,walking,100,37.98
+Bulgaria,driving,100,40.55
+Bulgaria,walking,100,37.87
+Cambodia,driving,100,25.14
+Cambodia,walking,100,45.49
+Canada,driving,100,52.28
+Canada,transit,100,18.73
+Canada,walking,100,50.75
+Chile,driving,100,36.02
+Chile,walking,100,26.11
+Colombia,driving,100,29.65
+Colombia,walking,100,39.05
+Croatia,driving,100,30.65
+Croatia,walking,100,28.99
+Czech Republic,driving,100,67.89
+Czech Republic,transit,100,24.47
+Czech Republic,walking,100,31.2
+Denmark,driving,100,77.88
+Denmark,transit,100,34.36
+Denmark,walking,100,66.49
+Egypt,driving,100,52.19
+Egypt,walking,100,49.11
+Estonia,driving,100,68.59
+Estonia,transit,100,31.65
+Estonia,walking,100,50.7
+Finland,driving,100,72.53
+Finland,transit,100,39.78
+Finland,walking,100,59.72
+France,driving,100,30.2
+France,transit,100,13.68
+France,walking,100,17.36
+Deutschland,driving,100,61.19
+Deutschland,transit,100,41.62
+Deutschland,walking,100,55.07
+Greece,driving,100,32.78
+Greece,walking,100,36.18
+Hong Kong,driving,100,52.19
+Hong Kong,walking,100,46.13
+Hungary,driving,100,56.56
+Hungary,walking,100,29.87
+Iceland,driving,100,61.01
+Iceland,walking,100,40.58
+India,driving,100,18.73
+India,walking,100,27.15
+Indonesia,driving,100,42.52
+Indonesia,walking,100,33.3
+Ireland,driving,100,31.97
+Ireland,transit,100,11.88
+Ireland,walking,100,27.7
+Israel,driving,100,28.91
+Israel,walking,100,24.74
+Italy,driving,100,21.84
+Italy,transit,100,11.23
+Italy,walking,100,15.41
+Japan,driving,100,78.43
+Japan,transit,100,64.82
+Japan,walking,100,72.88
+Latvia,driving,100,58.11
+Latvia,walking,100,33.55
+Lithuania,driving,100,56.29
+Lithuania,walking,100,40.01
+Luxembourg,driving,100,30.44
+Luxembourg,transit,100,18.4
+Luxembourg,walking,100,41
+Macao,driving,100,25.2
+Macao,walking,100,15.84
+Malaysia,driving,100,51.2
+Malaysia,walking,100,39.06
+Mexico,driving,100,40.05
+Mexico,transit,100,25.44
+Mexico,walking,100,34.91
+Morocco,driving,100,17.09
+Morocco,walking,100,14.54
+Netherlands,driving,100,53.81
+Netherlands,transit,100,23.22
+Netherlands,walking,100,46.84
+New Zealand,driving,100,16.98
+New Zealand,transit,100,10.74
+New Zealand,walking,100,19.63
+Norway,driving,100,76.83
+Norway,transit,100,41.23
+Norway,walking,100,59.34
+Philippines,driving,100,20.04
+Philippines,transit,100,21.04
+Philippines,walking,100,22.14
+Poland,driving,100,40.16
+Poland,walking,100,23.52
+Portugal,driving,100,28.86
+Portugal,walking,100,14.95
+Republic of Korea,driving,100,68.22
+Republic of Korea,walking,100,54.34
+Romania,driving,100,34.35
+Romania,walking,100,26.18
+Russia,driving,100,61.43
+Russia,walking,100,46.97
+Saudi Arabia,driving,100,40.43
+Saudi Arabia,walking,100,47.09
+Serbia,driving,100,33.78
+Serbia,walking,100,25.48
+Singapore,driving,100,37.98
+Singapore,transit,100,14.16
+Singapore,walking,100,27.23
+Slovakia,driving,100,68.71
+Slovakia,transit,100,38.79
+Slovakia,walking,100,50.89
+Slovenia,driving,100,33.42
+Slovenia,walking,100,34.8
+South Africa,driving,100,19.67
+South Africa,walking,100,21.41
+Spain,driving,100,20.75
+Spain,transit,100,9.41
+Spain,walking,100,11.28
+Sweden,driving,100,91.83
+Sweden,transit,100,60.46
+Sweden,walking,100,71.63
+Switzerland,driving,100,66.63
+Switzerland,transit,100,32.24
+Switzerland,walking,100,59.93
+Taiwan,driving,100,79.4
+Taiwan,transit,100,50.3
+Taiwan,walking,100,71.72
+Thailand,driving,100,35.84
+Thailand,walking,100,23.09
+Turkey,driving,100,41.94
+Turkey,walking,100,34.1
+United Kingdom,driving,100,38.71
+United Kingdom,transit,100,16.35
+United Kingdom,walking,100,45.4
+United States of America,driving,100,59.3
+United States of America,transit,100,24.44
+United States of America,walking,100,48.68
+Ukraine,driving,100,65.56
+Ukraine,walking,100,47.76
+United Arab Emirates,driving,100,42.46
+United Arab Emirates,walking,100,48.32
+Uruguay,driving,100,28.74
+Uruguay,walking,100,19.77
+Vietnam,driving,100,48.57
+Vietnam,walking,100,48.82
+Amsterdam,driving,100,42.73
+Amsterdam,transit,100,13.07
+Amsterdam,walking,100,22.18
+Athens,driving,100,33.46
+Athens,walking,100,37.15
+Atlanta,driving,100,60.92
+Atlanta,transit,100,46.89
+Atlanta,walking,100,59.84
+Auckland,driving,100,15.58
+Auckland,transit,100,8.31
+Auckland,walking,100,17.79
+Baltimore,driving,100,61.85
+Baltimore,transit,100,44.52
+Baltimore,walking,100,62.05
+Bangkok,driving,100,34.96
+Bangkok,walking,100,18.84
+Barcelona,driving,100,16.02
+Barcelona,transit,100,12.54
+Barcelona,walking,100,6.53
+Berlin,driving,100,57.87
+Berlin,transit,100,28.44
+Berlin,walking,100,39
+Birmingham - UK,driving,100,40.26
+Birmingham - UK,transit,100,22.7
+Birmingham - UK,walking,100,48.97
+Bochum - Dortmund,driving,100,62.14
+Bochum - Dortmund,transit,100,78.92
+Bochum - Dortmund,walking,100,67.99
+Boston,driving,100,47.43
+Boston,transit,100,18.3
+Boston,walking,100,37.78
+Brisbane,driving,100,57.39
+Brisbane,transit,100,22.8
+Brisbane,walking,100,42.75
+Brussels,driving,100,34.92
+Brussels,transit,100,18.92
+Brussels,walking,100,30.65
+Buenos Aires,driving,100,21.34
+Buenos Aires,walking,100,11.91
+Cairo,driving,100,51.21
+Cairo,walking,100,46.92
+Calgary,driving,100,51.25
+Calgary,transit,100,22.61
+Calgary,walking,100,66.91
+Cape Town,driving,100,15.37
+Cape Town,walking,100,15.22
+Chicago,driving,100,54.24
+Chicago,transit,100,22.24
+Chicago,walking,100,41.34
+Cologne,driving,100,47.09
+Cologne,transit,100,45.9
+Cologne,walking,100,35.71
+Copenhagen,driving,100,68.18
+Copenhagen,transit,100,26.89
+Copenhagen,walking,100,52.89
+Dallas,driving,100,56.59
+Dallas,transit,100,40.33
+Dallas,walking,100,60.92
+Delhi,driving,100,13.6
+Delhi,walking,100,19.56
+Denver,driving,100,46.61
+Denver,transit,100,29.27
+Denver,walking,100,45.13
+Detroit,driving,100,47.82
+Detroit,transit,100,28.58
+Detroit,walking,100,62.64
+Dubai,driving,100,34.04
+Dubai,walking,100,38.91
+Dublin,driving,100,24.8
+Dublin,transit,100,9.97
+Dublin,walking,100,21.36
+Dusseldorf,driving,100,52.56
+Dusseldorf,transit,100,52.87
+Dusseldorf,walking,100,51.42
+Edmonton,driving,100,56.92
+Edmonton,transit,100,20.49
+Edmonton,walking,100,66.03
+Frankfurt,driving,100,55.59
+Frankfurt,walking,100,51.3
+Fukuoka,driving,100,72.62
+Fukuoka,transit,100,58.32
+Fukuoka,walking,100,59.88
+Guadalajara,driving,100,39.07
+Guadalajara,walking,100,39.84
+Halifax,driving,100,55.19
+Halifax,transit,100,16.08
+Halifax,walking,100,49.16
+Hamburg,driving,100,60.81
+Hamburg,transit,100,58.73
+Hamburg,walking,100,49.98
+Helsinki,driving,100,67.42
+Helsinki,transit,100,37.18
+Helsinki,walking,100,54.62
+Houston,driving,100,57.49
+Houston,transit,100,39.8
+Houston,walking,100,63.04
+Hsin-chu,driving,100,82.1
+Hsin-chu,walking,100,92.09
+Istanbul,driving,100,31.86
+Istanbul,walking,100,25.14
+Jakarta,driving,100,42.98
+Jakarta,walking,100,54.62
+Johannesburg,driving,100,18.87
+Johannesburg,walking,100,22.03
+Kuala Lumpur,driving,100,35.96
+Kuala Lumpur,walking,100,20.86
+Leeds,driving,100,41.1
+Leeds,transit,100,20.97
+Leeds,walking,100,53.54
+Lille,driving,100,29.37
+Lille,transit,100,25.46
+Lille,walking,100,19.18
+London,driving,100,34.12
+London,transit,100,13.72
+London,walking,100,25.66
+Los Angeles,driving,100,47.28
+Los Angeles,transit,100,23.76
+Los Angeles,walking,100,48.69
+Lyon,driving,100,28.56
+Lyon,transit,100,30.57
+Lyon,walking,100,16.83
+Madrid,driving,100,17.11
+Madrid,transit,100,6.55
+Madrid,walking,100,9.22
+Manchester,driving,100,36.95
+Manchester,transit,100,18.32
+Manchester,walking,100,54.46
+Manila,driving,100,21.85
+Manila,transit,100,18.25
+Manila,walking,100,19.67
+Melbourne,driving,100,48.88
+Melbourne,transit,100,16.6
+Melbourne,walking,100,39.92
+Mexico City,driving,100,31.08
+Mexico City,transit,100,17.68
+Mexico City,walking,100,22.53
+Miami,driving,100,45.11
+Miami,transit,100,29.2
+Miami,walking,100,43.72
+Milan,driving,100,17.81
+Milan,walking,100,10.65
+Montreal,driving,100,35.78
+Montreal,transit,100,19.04
+Montreal,walking,100,39.22
+Moscow,driving,100,42.52
+Moscow,walking,100,26.9
+Mumbai,driving,100,12.32
+Mumbai,walking,100,14.38
+Munich,driving,100,47.83
+Munich,walking,100,37.9
+Nagoya,driving,100,78.63
+Nagoya,transit,100,69.34
+Nagoya,walking,100,80.36
+New York City,driving,100,45.9
+New York City,transit,100,14.13
+New York City,walking,100,26.62
+Osaka,driving,100,75.85
+Osaka,transit,100,58.74
+Osaka,walking,100,62.21
+Oslo,driving,100,70.89
+Oslo,transit,100,38.62
+Oslo,walking,100,50.71
+Ottawa,driving,100,44.06
+Ottawa,transit,100,14.33
+Ottawa,walking,100,46.24
+Paris,driving,100,17.48
+Paris,transit,100,10.59
+Paris,walking,100,9.74
+Perth,driving,100,59.86
+Perth,transit,100,23.23
+Perth,walking,100,54.45
+Philadelphia,driving,100,56.15
+Philadelphia,transit,100,28.77
+Philadelphia,walking,100,50.06
+Rio de Janeiro,driving,100,36.17
+Rio de Janeiro,transit,100,18.58
+Rio de Janeiro,walking,100,25.07
+Riyadh,driving,100,34.09
+Riyadh,walking,100,44.89
+Rome,driving,100,15.79
+Rome,transit,100,6.54
+Rome,walking,100,7.28
+Rotterdam,driving,100,54.07
+Rotterdam,transit,100,35.58
+Rotterdam,walking,100,62.98
+Saint Petersburg,driving,100,49.52
+Saint Petersburg,walking,100,32.61
+San Francisco - Bay Area,driving,100,40.59
+San Francisco - Bay Area,transit,100,19.16
+San Francisco - Bay Area,walking,100,27.83
+Santiago,driving,100,39.39
+Santiago,walking,100,22.46
+Sao Paulo,driving,100,37.05
+Sao Paulo,transit,100,20.25
+Sao Paulo,walking,100,24.35
+Seattle,driving,100,59.67
+Seattle,transit,100,17.71
+Seattle,walking,100,49.02
+Seoul,driving,100,61.25
+Seoul,walking,100,47.89
+Stockholm,driving,100,83.7
+Stockholm,transit,100,54.48
+Stockholm,walking,100,61.37
+Stuttgart,driving,100,49.06
+Stuttgart,transit,100,52.01
+Stuttgart,walking,100,43.88
+Sydney,driving,100,61.87
+Sydney,transit,100,23.58
+Sydney,walking,100,43.71
+Taichung,driving,100,79.13
+Taichung,transit,100,47.08
+Taichung,walking,100,75.86
+Taipei,driving,100,76.22
+Taipei,transit,100,51.47
+Taipei,walking,100,64.4
+Tel Aviv,driving,100,25.4
+Tel Aviv,walking,100,23.88
+Tijuana,driving,100,43.02
+Tijuana,walking,100,54.39
+Tokyo,driving,100,78.55
+Tokyo,transit,100,59.66
+Tokyo,walking,100,69.74
+Toronto,driving,100,42.21
+Toronto,transit,100,17.64
+Toronto,walking,100,36.03
+Toulouse,driving,100,28.29
+Toulouse,transit,100,32.16
+Toulouse,walking,100,21.71
+Utrecht,driving,100,46.04
+Utrecht,transit,100,30.02
+Utrecht,walking,100,52.67
+Vancouver,driving,100,51.71
+Vancouver,transit,100,19.5
+Vancouver,walking,100,51.08
+Vienna,driving,100,51.2
+Vienna,walking,100,29.46
+Washington DC,driving,100,49.19
+Washington DC,transit,100,17.37
+Washington DC,walking,100,37.56
+Zurich,driving,100,72.52
+Zurich,transit,100,35.71
+Zurich,walking,100,62.05
